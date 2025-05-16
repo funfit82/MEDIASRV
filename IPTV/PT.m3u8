@@ -2,40 +2,40 @@
 
 
 
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-rtp1.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 1 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-rtp2.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 2 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 3 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-rtp3.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 3 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/512px-RTP_A%C3%A7ores_%282016%29.svg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-rtp-acores.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://i.imgur.com/nJNWTqA.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Madeira (504p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-rtp-madeira.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Madeira (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://i.imgur.com/jCpfdiJ.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Memória (504p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-rtp-memoria.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Memória (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="SIC" tvg-logo="https://i.imgur.com/SPMqiDG.png" tvg-id="SIC.pt" group-title="Portugal",SIC
+#EXTINF:-1 tvg-name="SIC" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-SIC.png" tvg-id="SIC.pt" group-title="Portugal",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
-#EXTINF:-1 tvg-id="SICNovelas.pt" tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" group-title="Series",SIC Novelas
+#EXTINF:-1 tvg-id="SICNovelas.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-sic-novelas.png" group-title="Series",SIC Novelas
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SICReplay.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Replay.png",SIC Replay
+#EXTINF:-1 group-title="TV" tvg-id="SICReplay.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-sic-replay.png",SIC Replay
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SICAltaDefinicao.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Alta-Definição.png",SIC Alta Definição
+#EXTINF:-1 group-title="TV" tvg-id="SICAltaDefinicao.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-sic-altadefinicao.png",SIC Alta Definição
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
+#EXTINF:-1 group-title="TV" tvg-id="SICNoticias.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-sic-noticias.png",SIC Notícias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
@@ -53,17 +53,17 @@ https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3
 
 
 
-#EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://logodix.com/logo/1750018.png",TVI
+#EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-tvi.png",TVI
 https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI1IDg6OToxNCBBTSZoYXNoX3ZhbHVlPU1DZmZlNk9yakExZG9ZMmg2ckc2UkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03MTkzOWQyNy03ODljLTRkNjQtOGIwNi1lMDFiNjZlZTk5NWM=
-#EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
+#EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-tvi-internacional.png",TVI Internacional
 https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI1IDQ6OToyMSBBTSZoYXNoX3ZhbHVlPTNMKzB5Q0pHSGp6NzIxcnQwekRSOWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05Y2U5YjJjOS0zN2IyLTQ0NTItODQ4MS00NTczNjRiNDc4MjM=/
-#EXTINF:-1 group-title="TV" tvg-id="TVIAfrica.pt" tvg-logo="https://pbs.twimg.com/profile_images/833774566312902656/-rYUZHHe_400x400.jpg",TVI África
+#EXTINF:-1 group-title="TV" tvg-id="TVIAfrica.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-tvi-africa.png",TVI África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="VPlusTVI.pt" tvg-logo="https://atele.pt/content/images/2024/09/v-tvi-novo-canal-tvi-melhor-que-tvi-ficcao-audiencias.jpg",TVI V+
+#EXTINF:-1 group-title="TV" tvg-id="VPlusTVI.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-tvi-vmais.png",TVI V+
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TVIFiccao.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsldSVUEf3rwfKGxO-XLptswz3spfecBPoMQ&s",TVI Ficção
+#EXTINF:-1 group-title="TV" tvg-id="TVIFiccao.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-tvi-ficcao.png",TVI Ficção
 https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TVIReality.pt" tvg-logo="https://pbs.twimg.com/profile_images/833773530407981056/RqS_73mB_400x400.jpg",TVI Reality
+#EXTINF:-1 group-title="TV" tvg-id="TVIReality.pt" tvg-logo="https://github.com/funfit82/MEDIASRV/blob/main/logos/PT-tvi-reality.png,TVI Reality
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
 
