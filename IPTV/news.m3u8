@@ -1,0 +1,83 @@
+#EXTINF:-1 group-title="TV" tvg-id="Sky24Meteo.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-TG24.png",Sky TG24
+https://youtube.com/watch?v=HVB_Wx5T16g
+
+#EXTINF:-1 group-title="TV" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png",Rai News 24
+#KODIPROP:inputstream=inputstream.adaptive
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews EN
+https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="PressTV.ir" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Documentary.png",CGTN Documentary
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="CNNInternationalEurope.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="LiveNOWfromFOX.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/LiveNOW_from_Fox.webp",Fox Now
+https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="ABCNewsLive.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ABC-News.png",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="CBSNews247.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="NBCNewsNOW.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NBC-News-Now.png",NBC News Now
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(nnn)/master.mpd
+
+#EXTINF:-1 group-title="TV" tvg-id="NTD.com" tvg-logo="https://www.ntd.com/images/ENTD180.jpeg",NTD News
+https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBC-World-News.png",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="SkyNewsInternational.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News International
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(skynews)/master.mpd?audio=all&subtitle=all&forcedNarrative=true
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Africa_news.png",Africa News
+https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_AfricaNews/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TRTWorld.tr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRT_World.svg",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="NHKWorldJapan.jp" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NHK-World.png",NHK World Japan
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="KBSWorld.kr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/KBS-World.png",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="DWEnglish.de" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle
+#KODIPROP:inputstream=inputstream.adaptive
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="DWDeutsch.de" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle Deutsch
+#KODIPROP:inputstream=inputstream.adaptive
+#https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png",Deutsche Welle Deutsch+
+#KODIPROP:inputstream=inputstream.adaptive
+#https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TV5MondeEurope.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV5-Monde-Info.png",TV5 Monde Info
+#KODIPROP:inputstream=inputstream.adaptive
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BFM-TV.png",BFM TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="BFMBusiness.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BFM-Business.png",BFM Business
+#KODIPROP:inputstream=inputstream.adaptive
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+
+

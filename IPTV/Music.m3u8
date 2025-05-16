@@ -1,0 +1,39 @@
+#EXTINF:-1 group-title="TV" tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TraceBrasil.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Trace_Brasil.png",Trace Brasil
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="ClubbingTV.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="1HDMusicTelevision.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/1HD.png",1HD Music
+#https://sc.id-tv.kz/1hd.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="NRG91.gr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NRG-91-TV.png",NRG 91 TV
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="myDeejay.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png",DeeJay TV
+https://streamcdng5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="4fun.pl" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="KpopTVPlay.br" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sexy-KPOP-TV.png",Sexy KPOP TV
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FMITALIA.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/FM-Italia-TV.png",FM Italia TV
+https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="ColosalTV.cr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Colosal-TV.png",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",California Music Channel
+https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+
+
+
+
